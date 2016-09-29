@@ -1,0 +1,87 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0 20px 0;
+}
+
+.nav li {
+  font-size: .75rem;
+  display: inline;
+  padding: 0 20px 0 0;
+  float: right;
+}
+
+.main {
+  text-align: center;
+  clear:both;
+  padding-top: 100px;
+  margin-bottom: 100px;
+}
+
+.image {
+  padding-bottom: 50px;
+}
+
+.textbox input {
+  width: 443px;
+  height: 38px;
+  margin: 0;
+  padding: 0;
+}
+.textbox {
+  padding: 6px 9px 25px 0;
+  height: 38px;
+}
+
+.buttons input {
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+  height: 36px;
+  line-height: 27px;
+}
+
+.left ul {
+  list-style-type: none;
+  padding: 0 0 0 20px;
+  margin: 0;
+}
+
+.left li {
+  font-size: .75rem;
+  display: inline;
+  padding: 0 20px 0 0;
+  float: left;
+}
+
+.right ul {
+  list-style-type: none;
+  padding: 0 20px 0 0;
+  margin: 0;
+}
+
+.right li {
+  font-size: .75rem;
+  display: inline;
+  padding: 0 0 0 20px;
+  float: right;
+}
+
+.footer {
+  border-top: 1px solid #e4e4e4;
+  background: #f2f2f2;
+  line-height: 40px;
+  width: 100%;
+  position: absolute;
+  height: 35px;
+}
